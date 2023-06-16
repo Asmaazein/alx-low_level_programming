@@ -5,9 +5,9 @@
 /**
  * main - Entry point
  *
- * Description: using sizeof to print the size of various types.
+ * Description: false or true validation
  *
- * Return: Always 0 (Success)
+ * Return: 0 (Success)
 */
 
 int main(void)
