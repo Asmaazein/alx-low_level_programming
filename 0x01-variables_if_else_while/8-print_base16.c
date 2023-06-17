@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * main - entry point
- * description: print numbers of base16 in lowercase
- * return: always 0 (success)
+ * main - Entry point
+ * Description: print numbers of base16 in lowercase
+ * Return: Always 0 (success)
 */
 
 int main(void)
