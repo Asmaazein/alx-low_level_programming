@@ -18,7 +18,7 @@ int main(void)
 		putchar(ch);
 		ch++;
 	}
-	/*print A -Z*/
+	/*prints A -Z*/
 
 	while (CH <= 'z')
 	{
